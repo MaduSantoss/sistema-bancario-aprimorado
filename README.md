@@ -48,13 +48,13 @@
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/MaduSantoss/sistema-bancario-atualizado
+git clone https://github.com/MaduSantoss/sistema-bancario-aprimorado
 ```
 
 2. Acesse a pasta do projeto:
 
 ```bash
-cd sistema-bancario-atualizado
+cd sistema-bancario-aprimorado
 ```
 
 3. Execute o script:
